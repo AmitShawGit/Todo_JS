@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+.box{
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: aliceblue;
+    padding: 25px;
+}
+.entertext{
+    height: 35px;
+    width: 350px;
+    margin: 10px;
+}
+.btn{
+    margin: 5px;
+}
+table{
+    border: 1px solid rgb(155, 154, 154);
+    margin: 0 auto;
+    width:500px;
+    margin-top: 15px;
+}
+th{
+    background-color: rgb(117, 209, 117);
+text-align: center;
+border: 1px solid rgb(171, 171, 171);
+}
+td{
+    text-align: center;
+    padding: 10px;
+    background-color: white;
+}
+.edit{
+    color: blue;
+    cursor: pointer;
+}
+.delete{
+    color: red;
+    cursor: pointer;
+}
